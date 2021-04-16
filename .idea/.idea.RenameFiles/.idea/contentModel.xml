@@ -6,6 +6,7 @@
     <e p="E:\Project\RiderProjects\RenameFiles" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="RenameFiles" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="CrossMarkControl.cs" t="Include" />
