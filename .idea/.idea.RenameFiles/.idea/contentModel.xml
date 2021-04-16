@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chek5\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\chek5\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_RenameFiles.1144421598.00" t="ExcludeRecursive" />
+    <e p="E:\Project\RiderProjects\RenameFiles" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RenameFiles" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CrossMarkControl.cs" t="Include" />
+        <e p="CrossMarkControl.Designer.cs" t="Include" />
+        <e p="DoneControl.cs" t="Include" />
+        <e p="DoneControl.Designer.cs" t="Include" />
+        <e p="Image" t="Include">
+          <e p="AcceptButton.png" t="Include" />
+          <e p="button.png" t="Include" />
+          <e p="button.psd" t="Include" />
+          <e p="button1.png" t="Include" />
+          <e p="CheckMark.png" t="Include" />
+          <e p="checkmarkOriginal.png" t="Include" />
+          <e p="CrossMark.png" t="Include" />
+          <e p="IconImage.ico" t="Include" />
+          <e p="line.png" t="Include" />
+          <e p="line.psd" t="Include" />
+          <e p="littleGirl.png" t="Include" />
+        </e>
+        <e p="MainWindow.cs" t="Include" />
+        <e p="MainWindow.Designer.cs" t="Include" />
+        <e p="MainWindow.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="RenameFiles.csproj" t="IncludeRecursive" />
+        <e p="Renamer.cs" t="Include" />
+      </e>
+      <e p="RenameFiles.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
